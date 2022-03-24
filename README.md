@@ -1,6 +1,9 @@
 - 👋 Hi, I’m Jasmeet Singh 
 - 👀 I’m interested in Software Developing, UI/UX Design
 - 🌱 I’m currently learning Database Structures & Alogrithms
+- Traveller
+- Motivational Speaker
+- Tech Geek
 
 <!---
 jfv492/jfv492 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
