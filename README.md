@@ -3,7 +3,7 @@
 </p>
 <h1 align="center">Hi 👋, I'm Jasmeet</h1>
 <h3 align="center">Fourth Year Software Systems Engineering Student</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/Ug6cbVA1ZsMAAAAM/developer.gif">
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 
 <p align="left"> <a href="https://twitter.com/iamjesse29" target="blank"><img src="https://img.shields.io/twitter/follow/iamjesse29?logo=twitter&style=for-the-badge" alt="iamjesse29" /></a> </p>
