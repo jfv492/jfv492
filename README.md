@@ -40,3 +40,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jfv492&show_icons=true&locale=en" alt="jfv492" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jfv492&" alt="jfv492" /></p>
+
+<img src="https://readme-jokes.vercel.app/api?hideBorder" alt="Jokes Card" />
