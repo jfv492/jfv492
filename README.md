@@ -20,7 +20,7 @@
 
 - 💬 Ask me about **iOS, Microcontrollers, react, design patterns, UI/UX**
 
-- 📫 How to reach me **jasmeet.singh29@outlook.com**
+- 📫 How to reach me **work.jasmeetsingh@gmail.com**
 
 - 📄 Know about my experiences [TBD](TBD)
 
