@@ -8,13 +8,13 @@
 
 <p align="left"> <a href="https://twitter.com/iamjesse29" target="blank"><img src="https://img.shields.io/twitter/follow/iamjesse29?logo=twitter&style=for-the-badge" alt="iamjesse29" /></a> </p>
 
-- 🔭 I’m currently working on **TBD**
+- 🔭 I’m currently working on my Capstone Project: [VisuSpeak](https://github.com/jfv492/VisuSpeak)
 
-- 🌱 I’m currently learning **Software Validation and Testing**
+- 🌱 I’m currently learning **Machine Learning and Data Structure Algorithms**
 
 - 👯 I’m looking to collaborate on **TBD**
 
-- 👨‍💻 All of my projects are available at [TBD](TBD)
+- 👨‍💻 All of my projects are available at [My Github](https://github.com/jfv492?tab=repositories)
 
 - 📝 I regularly write articles on [TBD](TBD)
 
