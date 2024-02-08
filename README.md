@@ -2,7 +2,7 @@
   <img src="https://media.tenor.com/wIa91mot0tAAAAAd/pixel-city-chill.gif" width="100%" height="300">
 </p>
 <h1 align="center">Hi 👋, I'm Jasmeet</h1>
-<h3 align="center">Fourth Year Software Systems Engineering Student</h3>
+<h3 align="center">Final Year Software Systems Engineering Student</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 
@@ -16,15 +16,13 @@
 
 - 👨‍💻 All of my projects are available at [My Github](https://github.com/jfv492?tab=repositories)
 
-- 📝 I regularly write articles on [TBD](TBD)
-
-- 💬 Ask me about **iOS, Microcontrollers, react, design patterns, UI/UX**
+- 💬 Ask me about **AI, Machine Learning, Mobile Development, Microcontrollers, React, Design Patterns, UI/UX**
 
 - 📫 How to reach me **work.jasmeetsingh@gmail.com**
 
 - 📄 Know about my experiences [TBD](TBD)
 
-- ⚡ Fun fact **As a software engineering student, I have had the opportunity to work with multiple organizations that were not inherently software engineering based, but were in need of technological solutions to improve their operations and drive growth. By leveraging my knowledge and skills in software development, I successfully incorporated various software applications to address specific challenges faced by these organizations. Through careful analysis and collaboration with key stakeholders, I identified areas where technology could streamline processes, enhance efficiency, and enable scalability. By implementing customized software solutions, I helped automate repetitive tasks, optimize resource allocation, and improve overall productivity. These software implementations brought about significant positive changes, allowing the organizations to streamline their operations, achieve cost savings, and ultimately grow their businesses. My experiences working with diverse organizations have highlighted the importance of technology integration across different sectors, showcasing how software engineering skills can be applied to create transformative impacts beyond traditional software engineering contexts**
+- ⚡ Fun fact **As a software engineering student, I have had the opportunity to work with multiple organizations that were not inherently software engineering based, but were in need of technological solutions to improve their operations and drive growth.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
