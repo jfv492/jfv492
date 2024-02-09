@@ -21,17 +21,18 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=jfv492&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=jfv492&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=jfv492&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<h3 align="left">Just for fun!</h3>
+<img src="https://readme-jokes.vercel.app/api?hideBorder" alt="Jokes Card" />
 
 ---
 [![](https://visitcount.itsvg.in/api?id=jfv492&icon=9&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<h3 align="left">Just for fun!:</h3>
-<img src="https://readme-jokes.vercel.app/api?hideBorder" alt="Jokes Card" />
 
