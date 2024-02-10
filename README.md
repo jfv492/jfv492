@@ -1,7 +1,6 @@
 <p align="center">
   <img src="https://media.tenor.com/wIa91mot0tAAAAAd/pixel-city-chill.gif" width="100%" height="300">
 </p>
-[![](https://visitcount.itsvg.in/api?id=jfv492&icon=9&color=0)](https://visitcount.itsvg.in)
 <h1 align="center">Hi 👋, I'm Jasmeet</h1>
 <h3 align="center">Final Year Software Systems Engineering Student</h3>
 
@@ -40,7 +39,7 @@
 <img src="https://readme-jokes.vercel.app/api?hideBorder" alt="Jokes Card" />
 
 ---
-
+[![](https://visitcount.itsvg.in/api?id=jfv492&icon=0&color=9)](https://visitcount.itsvg.in)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
