@@ -5,7 +5,7 @@
 <h3 align="center">Software Systems Engineerer</h3>
 
 # 💫 About Me:
-🔭 I’m currently working as a Web Developer <br>🌱 I’m currently learning: DevOps <br>💬 Ask me about: AI, Machine Learning, Mobile Development, Web Development, Microcontrollers, React, Design Patterns, UI/UX<br>👯 I’m looking to collaborate on: AI, Machine Learning, Microcontrollers<br>👨‍💻 All of my projects are available at [My Github](https://github.com/jfv492?tab=repositories)<br>⚡ Fun fact: As a software engineering student, I have had the opportunity to work with multiple organizations that were not inherently software engineering based, but were in need of technological solutions to improve their operations and drive growth.<br>💻 Portfolio: [Coming Soon](TBD)<br>📫 Contact me at: work.jasmeetsingh@gmail.com
+🔭 I’m currently working as a Web Developer <br>🌱 I’m currently learning: DevOps <br>💬 Ask me about: AI, Machine Learning, Mobile Development, Web Development, Microcontrollers, React, Design Patterns, UI/UX<br>👯 I’m looking to collaborate on: AI, Machine Learning, Microcontrollers<br>👨‍💻 All of my projects are available at [My Github](https://github.com/jfv492?tab=repositories)<br>⚡ Fun fact: Love Coffee ☕️ <br>💻 Portfolio: [Coming Soon](TBD)<br>📫 Contact me at: work.jasmeetsingh@gmail.com
 
 
 # 🌐 Socials:
