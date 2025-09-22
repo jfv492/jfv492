@@ -2,7 +2,7 @@
   <img src="https://media.tenor.com/wIa91mot0tAAAAAd/pixel-city-chill.gif" width="100%" height="300">
 </p>
 <h1 align="center">Hi 👋, I'm Jasmeet</h1>
-<h3 align="center">Software Systems Engineerer</h3>
+<h3 align="center">Software Systems Engineer</h3>
 
 # 💫 About Me:
 🔭 I’m currently working as a Web Developer <br>🌱 I’m currently learning: DevOps <br>💬 Ask me about: AI, Machine Learning, Mobile Development, Web Development, Microcontrollers, React, Design Patterns, UI/UX<br>👯 I’m looking to collaborate on: AI, Machine Learning, Microcontrollers<br>👨‍💻 All of my projects are available at [My Github](https://github.com/jfv492?tab=repositories)<br>⚡ Fun fact: Love Coffee ☕️ <br>💻 Portfolio: [Coming Soon](TBD)<br>
